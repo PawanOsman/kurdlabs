@@ -3,7 +3,7 @@
   "versionCode": 200,
   "updateUrl": "https://raw.githubusercontent.com/pawanosman/kurdishrealrppublic/master/setup.exe",
   "backgroundImage": "https://raw.githubusercontent.com/pawanosman/kurdishrealrppublic/master/launcher_background.jpg",
-  "socketAddress": "https://127.0.0.1:8443",
+  "socketAddress": "http://127.0.0.1:8080",
   "banMessage": {
 	"caption": "You are Banned!",
 	"message": "You are banned! your connection terminated"
